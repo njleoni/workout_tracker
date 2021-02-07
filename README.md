@@ -27,7 +27,7 @@
 ## Tests
     
 ## Questions
-[GitHub Repo Link](https://github.com/njleoni/workout_tracker)
+[GitHub Repo Link](https://github.com/njleoni/workout_tracker)<br/>
 \n[Heroku Link](https://powerful-spire-65295.herokuapp.com/)
 #### If you have any additional questions, please contact me at nicholas.leoni@gmail.com
 
