@@ -28,7 +28,7 @@
     
 ## Questions
 [GitHub Repo Link](https://github.com/njleoni/workout_tracker)
-\n[Heroku Link](https://nameless-brushlands-78595.herokuapp.com/)
+\n[Heroku Link](https://powerful-spire-65295.herokuapp.com/)
 #### If you have any additional questions, please contact me at nicholas.leoni@gmail.com
 
 ## Screenshot
